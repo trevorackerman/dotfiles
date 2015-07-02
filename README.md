@@ -67,4 +67,5 @@ Or, using wget:
 
 ## Credits
 
+Shamelessly ripped off (instead of forked) from [Lars Kappert's](https://github.com/webpro) [dotfiles](https://github.com/webpro/dotfiles) repo.
 Many thanks to the [dotfiles community](http://dotfiles.github.io/) and the creators of the incredibly useful tools.

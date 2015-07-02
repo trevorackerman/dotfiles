@@ -1,0 +1,19 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.1680.1050" x="840" y="230" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1680.1050" x="558" y="327" />
+    <location key="OptionsEditor.0.0.1680.1050" x="328" y="80" />
+    <location key="new project wizard.0.0.1680.1050" x="473" y="84" />
+    <location key="FileChooserDialogImpl.0.0.1680.1050" x="628" y="207" />
+    <location key="NewModule_or_Project.wizard.0.0.1680.1050" x="461" y="156" />
+    <location key="SettingsEditor.0.0.1680.1050" x="321" y="162" />
+    <location key="#Project_Structure.0.0.1680.1050" x="265" y="96" />
+    <location key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog.0.0.1680.1050" x="753" y="436" />
+    <location key="com.intellij.history.integration.ui.views.FileHistoryDialog.0.0.1680.1050" x="331" y="123" />
+    <size key="NewModule_or_Project.wizard.0.0.1680.1050" width="778" height="685" />
+    <size key="com.intellij.history.integration.ui.views.FileHistoryDialog.0.0.1680.1050" width="1200" height="711" />
+    <extendedState key="com.intellij.history.integration.ui.views.FileHistoryDialog" state="0" />
+    <extendedState key="com.intellij.history.integration.ui.views.FileHistoryDialog.0" state="300" />
+    <extendedState key="com.intellij.history.integration.ui.views.FileHistoryDialog.1" state="500" />
+  </component>
+</application>

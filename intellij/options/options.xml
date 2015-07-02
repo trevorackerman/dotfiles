@@ -1,0 +1,27 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="log.debug.categories" value="" />
+    <property name="DefaultHtmlDoctype.MigrateToHtml5" value="true" />
+    <property name="DefaultHtmlDoctype.Refreshed" value="1" />
+    <property name="evlsprt3.14" value="18" />
+    <property name="installation.uid" value="259c10ab-b054-44ff-aed4-702bf25e11de" />
+    <property name="default.storage.format" value=".idea (directory based)" />
+    <property name="project.wizard.group" value="JAVA_MODULE" />
+    <property name="project.wizard.template" value="Empty Project" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
+    <property name="lastTip" value="1" />
+    <property name="file.colors.enable.non.project" value="Yellow" />
+    <property name="file.colors.enable.tests" value="Green" />
+    <property name="ProjectStructure.TopLevelElements" value="0.15" />
+    <property name="Non-Project Files" value="Yellow" />
+    <property name="Tests" value="Green" />
+    <property name="ChangesViewManager.DETAILS_SPLITTER_PROPORTION" value="0.5" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/projects/trailsy" />
+    <property name="last.imported.location" value="$USER_HOME$/projects/trailsy" />
+    <property name="create.project.preferred.importer" value="Existing Sources" />
+    <property name="ProjectStructure.SecondLevelElements" value="0.2" />
+    <property name="project.jdk.splitter" value="0.2" />
+    <property name="FindSplitterProportion" value="0.25" />
+  </component>
+</application>

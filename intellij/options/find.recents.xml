@@ -1,0 +1,11 @@
+<application>
+  <component name="FindRecents">
+    <findStrings>
+      <find>fibionacci</find>
+      <find>fibonacci</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>fibonacci</replace>
+    </replaceStrings>
+  </component>
+</application>

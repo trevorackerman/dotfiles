@@ -1,0 +1,42 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="javaScript Scope Usages">
+      <project id="trailsy" values="Project,Directory,Project" collectionTime="1435342455788" />
+      <project id="boco-trails" values="Project,Project" collectionTime="1435690831431" />
+    </group>
+    <group name="JavaScript versions">
+      <project id="trailsy" values="DEFAULT" collectionTime="1435342455788" />
+      <project id="boco-trails" values="DEFAULT" collectionTime="1435690831431" />
+    </group>
+    <group name="module type">
+      <project id="trailsy" values="WEB_MODULE" collectionTime="1435342450186" />
+      <project id="boco-trails" values="WEB_MODULE" collectionTime="1435690830307" />
+    </group>
+    <group name="vcs">
+      <project id="trailsy" values="Git" collectionTime="1435342450185" />
+    </group>
+    <group name="file-type">
+      <project id="trailsy" values="UNKNOWN,PLAIN_TEXT,Images,JSON,XML,JavaScript,CSS,HTML,IDEA_MODULE,Less" collectionTime="1435342450417" />
+      <project id="boco-trails" values="JSON,Images,PLAIN_TEXT,IDEA_MODULE,Less,XML,UNKNOWN,JSHint,HTML,CSS,JavaScript,YAML,JSCS,SourceMap" collectionTime="1435690830515" />
+    </group>
+    <group name="javaScript Frameworks">
+      <project id="trailsy" values="node_modules" collectionTime="1435342455788" />
+    </group>
+    <group name="libraries">
+      <project id="trailsy" values="javaScript" collectionTime="1435342451017" />
+    </group>
+    <group name="language-level">
+      <project id="trailsy" values="JDK_1_6" collectionTime="1435342451041" />
+      <project id="boco-trails" values="JDK_1_6" collectionTime="1435690830548" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="ide.settings.Appearance" count="1" />
+      <entry feature="ideaapp.started" count="4" />
+      <entry feature="scala.file.with.type.aware.annotated" count="608" />
+      <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="5" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenProject" count="4" />
+    </counts>
+  </component>
+</application>

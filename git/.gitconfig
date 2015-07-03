@@ -1,11 +1,11 @@
 [core]
 	editor = vim
-	excludesfile = /Users/tzia/.gitignore_global
+	excludesfile = ~/.gitignore_global
 [merge]
 	tool = meld
 [user]
-	email = tackerman@ziaconsulting.com
-	name = Ackerman, Trevor
+	email = trevorackerman.softdev@gmail.com
+	name = Trevor Ackerman
 [difftool "sourcetree"]
 	cmd = opendiff \"$LOCAL\" \"$REMOTE\"
 	path = 
